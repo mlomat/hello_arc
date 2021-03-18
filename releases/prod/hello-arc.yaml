@@ -16,4 +16,4 @@ spec:
     replicaCount: 1
     env:
       name: MESSAGE
-      value: Azure Arc enabled - Hello Mateusz!
+      value: Azure Arc enabled - Hello Students!
